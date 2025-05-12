@@ -1,0 +1,11 @@
+react
+react-dom
+react-router-dom
+react-datepicker 
+npm init -y
+pip install flask pymysql python-dotenv
+pip install cryptography
+npm install concurrently --save-dev
+npm install react-copy-to-clipboard
+pip install boto3
+pip install flask-cors
